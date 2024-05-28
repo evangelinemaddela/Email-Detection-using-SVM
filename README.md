@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib seaborn nltk tensorflow
 1. *Clone the repository:*
 
    sh
-   git clone https://github.com/your-username/email-detection.git
+   git clone https://github.com/evangelinemaddela/Email-Detection-using-SVM/tree/main
    cd email-detection
    
 
